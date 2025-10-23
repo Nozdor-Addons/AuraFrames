@@ -1,0 +1,36 @@
+## Interface: 40000
+## Title: Aura Frames
+## Notes: Managing your aura frames
+## Author: Alex <Nexiuz> Elderson
+## Version: 1.0
+## SavedVariables: AuraFramesDB
+## OptionalDeps: Ace3, ButtonFacade
+## X-Curse-Packaged-Version: 1.2-Release
+## X-Curse-Project-Name: Aura Frames
+## X-Curse-Project-ID: aura-frames
+## X-Curse-Repository-ID: wow/aura-frames/mainline
+
+Embeds.xml
+
+AuraFrames.lua
+Version.lua
+Database.lua
+Modules.lua
+Container.lua
+AuraDefinition.lua
+CancelAura.lua
+Tooltip.lua
+Config.lua
+Code.lua
+AuraList.lua
+Filter.lua
+Order.lua
+Colors.lua
+ButtonFacade.lua
+SharedMedia.lua
+FormatTime.lua
+FontObject.lua
+ButtonFacade\Skins.lua
+
+
+Modules.xml

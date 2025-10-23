@@ -1,0 +1,38 @@
+------------------------------------------------------------------------
+r289 | beautiuz | 2011-04-19 09:07:39 +0000 (Tue, 19 Apr 2011) | 1 line
+Changed paths:
+   A /tags/1.2-Release (from /trunk:288)
+
+Tagging as 1.2-Release
+------------------------------------------------------------------------
+r287 | beautiuz | 2011-03-22 15:16:19 +0000 (Tue, 22 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/AuraFrames/Libs/LibAura-1.0/ItemCooldowns.lua
+   M /trunk/AuraFrames/Libs/LibAura-1.0/SpellCooldowns.lua
+
+Fixed a small bug where cd's could be grouped but where 1 cd could be resetted (shield slam + strike for example for a warrior tank)
+------------------------------------------------------------------------
+r286 | beautiuz | 2011-03-21 15:43:22 +0000 (Mon, 21 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/AuraFrames/AuraDefinition.lua
+
+Enabled IsStealable for filtering
+------------------------------------------------------------------------
+r285 | beautiuz | 2011-03-21 10:57:35 +0000 (Mon, 21 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/AuraFrames/AuraList.lua
+
+A small update on AuraList
+------------------------------------------------------------------------
+r284 | beautiuz | 2011-03-20 13:29:01 +0000 (Sun, 20 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/AuraFrames/AuraList.lua
+
+Changed a couple of things in AuraList, hopefully this will fix multiple problems with dynamic filters (old aura's not disappearing)
+------------------------------------------------------------------------
+r283 | beautiuz | 2011-03-07 05:20:11 +0000 (Mon, 07 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/AuraFrames/Libs/LibAura-1.0/ItemCooldowns.lua
+
+Fix for single item cooldowns (like healthstones)
+------------------------------------------------------------------------
