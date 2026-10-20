@@ -9,6 +9,7 @@
 ## X-Curse-Project-Name: Aura Frames
 ## X-Curse-Project-ID: aura-frames
 ## X-Curse-Repository-ID: wow/aura-frames/mainline
+## X-Nozdor-DemonHunter: 1
 
 Embeds.xml
 

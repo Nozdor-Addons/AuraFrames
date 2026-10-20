@@ -152,6 +152,7 @@ AuraFrames.AuraDefinition = {
       MAGE        = "Mage",
       WARLOCK     = "Warlock",
       HUNTER      = "Hunter",
+      DEMONHUNTER = "Demon Hunter",
       NONE        = "Unknown",
     },
     Code = "(Object.CasterUnit and select(2, UnitClass(Object.CasterUnit)) or \"NONE\")",
